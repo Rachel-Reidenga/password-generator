@@ -37,6 +37,12 @@ else {
   confirmUp = confirm("Would you like your password to have uppercase letters?");
 }
 
+//Else if all "false"
+if (!confirmNumber && !confirmChar && !confirmLow && !confirmUp) {
+  select = alert("You must select password parameters!")
+}
+
+// Random selection
 console.log(Math.floor((Math.random() *128) + 1));
 
 
