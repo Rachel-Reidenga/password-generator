@@ -47,8 +47,18 @@ else if (!confirmNumber && !confirmChar && !confirmLow && !confirmUp) {
   select = characters.concat(numbers, lowLetters, upLetters);
 }
 
+//Else if 3 "true"
+
+//Else if 2 "true"
+
+//Else if 1 "true"
+
 // Random selection
-console.log(Math.floor((Math.random() *128) + 1));
+// console.log(Math.floor((Math.random() *128) + 1));
+for (var i = 0; i < enter; i++) {
+  var pickSelect = select(Math.floor(Math.random() * select.length));
+  password.push(pickSelect);
+}
 
 
 
