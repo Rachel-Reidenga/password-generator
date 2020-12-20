@@ -42,6 +42,11 @@ if (!confirmNumber && !confirmChar && !confirmLow && !confirmUp) {
   select = alert("You must select password parameters!")
 }
 
+//Else if all "true"
+else if (!confirmNumber && !confirmChar && !confirmLow && !confirmUp) {
+  select = characters.concat(numbers, lowLetters, upLetters);
+}
+
 // Random selection
 console.log(Math.floor((Math.random() *128) + 1));
 
