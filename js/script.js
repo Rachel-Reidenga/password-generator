@@ -1,5 +1,9 @@
 // Assignment code here
 
+// User input variables 
+console.log(Math.floor((Math.random() *128) + 1));
+
+
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
