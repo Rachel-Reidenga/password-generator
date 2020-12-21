@@ -18,8 +18,11 @@ Link to repository on [GitHub](https://github.com/Rachel-Reidenga/password-gener
 ## Screenshots
 
 ![Web Application](../password-generator/screenshots/passwordgenerator.png)
+
 ![Criteria 1](../password-generator/screenshots/numberofchar.png)
+
 ![Criteria 2](../password-generator/screenshots/choosenumber.png)
+
 ![Criteria 3](../password-generator/screenshots/passwordparam.png)
 
 
@@ -34,7 +37,3 @@ Shout out to Tanetta J, Monica H and Paul C
 
 [w3schools](https://www.w3schools.com/)
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 5579facc5446942f1609bf45c7e4894fb9d0f020
