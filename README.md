@@ -34,4 +34,7 @@ Shout out to Tanetta J, Monica H and Paul C
 
 [w3schools](https://www.w3schools.com/)
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 5579facc5446942f1609bf45c7e4894fb9d0f020
