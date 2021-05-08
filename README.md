@@ -17,13 +17,21 @@ Link to repository on [GitHub](https://github.com/Rachel-Reidenga/password-gener
 
 ## Screenshots
 
-![Web Application](./screenshots/passwordgenerator.png)
+![Web Application](./screenshots/PasswordGen.png)
 
-![Criteria 1](./screenshots/numberofchar.png)
+![Criteria 1](./screenshots/characters.png)
 
-![Criteria 2](./screenshots/choosenumber.png)
+![Criteria 2](./screenshots/lowerletters.png)
 
-![Criteria 3](./screenshots/passwordparam.png)
+![Criteria 3](./screenshots/numbers.png)
+
+![Criteria 4](./screenshots/special.png)
+
+![Criteria 5](./screenshots/upper.png)
+
+![Criteria 6](./screenshots/value.png)
+
+![Criteria 7](./screenshots/clipboard.png)
 
 
 ## Built With 
